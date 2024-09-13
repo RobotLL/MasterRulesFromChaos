@@ -2,7 +2,7 @@
 
 ## 104 Human-created Objects
 
-<img src="example.jpg" width="935" height="1267">
+<img src="example.png" width="775" height="1045">
 
 ## Video
 
